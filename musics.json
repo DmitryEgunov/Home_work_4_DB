@@ -1,0 +1,47 @@
+{
+  "artist": ["Tarakan", "Юрий Юра", "Lucky Luck", "Молот", "Mr. Tele Pupkin", "Вася",
+    "Вождь краснокожих", "Сrocodile", "Адреналин"],
+  "genre": ["Rock", "Jazz", "Pop", "Disco", "Tehcno", "Rap"],
+  "album": {
+    "Брямс": 1990,
+    "Ho-ho-ho!": 2018,
+    "Krugliy": 2015,
+    "Кол-пол": 2019,
+    "Сosiness": 2003,
+    "I catch up with the wind clouds": 2008,
+    "Волонтер": 1997,
+    "Migraine": 1992,
+    "Horizon": 2019
+  },
+  "track": {
+    "Парововоз": 2.37,
+    "Hi!": 3.29,
+    "My dream city": 4.18,
+    "Returned to the street": 3.48,
+    "Бурундук": 2.45,
+    "Fire inside": 3.17,
+    "Sha-la-la": 4.50,
+    "Не трогай мой подъемник": 1.57,
+    "Portrait of my soul": 3.26,
+    "Panama": 3.47,
+    "Мой путь вникуда": 4.31,
+    "Cool look": 3.19,
+    "Жертва аборигенов": 5.02,
+    "Beliberda": 4.10,
+    "Позабытое отражение": 2.58,
+    "Standart": 3.40,
+    "Chery": 3.31,
+    "Amazon": 4.38
+  },
+  "compilation": {
+    "One yellow bottle": 2020,
+    "Лучшее все наше": 2018,
+    "Popular": 2015,
+    "Strong": 2019,
+    "Crazy fun": 2000,
+    "First cultural": 2008,
+    "Утренний": 2017,
+    "Парадный": 2019,
+    "Solid": 2014
+  }
+}
